@@ -73,6 +73,7 @@ table {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   position: absolute;
+  font-size: 1vw;
   top: 35vh;
   left: 5vw;
 }
