@@ -1,0 +1,102 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  .main {
+    width: 100vw;
+    height: 100vh;
+  }
+  header {
+    width: 100vw;
+    height: 10vh;
+  }
+  .nuqta {
+    width: 0vw;
+    position: absolute;
+    right: 5vw;
+  }
+
+  .wally {
+    width: 5.5vw;
+    position: absolute;
+    left: 5vw;
+  }
+
+  table {
+    position: absolute;
+    top: 6vh;
+    left: 38vw;
+    width: 25vw;
+    font-size: 1.1vw;
+    font-family: cursive;
+  }
+
+  .button1 {
+    width: 9vw;
+    height: 5vh;
+    border-radius: 20px;
+    position: absolute;
+    right: 10vw;
+    top: 5vh;
+    color: blue;
+    border-color: blue;
+    font-size: 1vw;
+  }
+
+  .button1:hover {
+    border: white;
+    color: white;
+    background-color: blue;
+  }
+  .sec-b {
+    color: chartreuse;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 35vh;
+    left: 5vw;
+  }
+
+  h1 {
+    position: absolute;
+    top: 40vh;
+    left: 5vw;
+    font-size: 2.8vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  p{
+    position: absolute;
+    top: 60vh;
+    left: 5vw;
+    font-size: 1.8vw;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+  }
+
+  .button2{
+    width: 9vw;
+    height: 5vh;
+    border-radius: 20px;
+    position: absolute;
+    left: 5vw;
+    top: 75vh;
+    background-color: blue;
+    border: none;
+    color: white;
+    border-color: white;
+    font-size: 1vw;
+  }
+
+  .button2:hover {
+    border: 1px solid blue;
+    color: blue;
+    background-color: white;
+  }
+  .iluustration {
+    width: 45vw;
+    position: absolute;
+    right: 2vw;
+    top: 25vh;
+  }
